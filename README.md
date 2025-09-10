@@ -9,7 +9,7 @@
 ##  About Me
 - I am a **Final Year Computer Engineering Student**  
 - Skilled in **C, C++ and Full Stack Development**  
-- I aspire to become a **Data Engineer**, but starting my journey as a **Data Analyst**  
+- I aspire to become a **Data Engineer**, currently starting my journey as a **Data Analyst**  
 - Building my foundation with:  
   `SQL` `Python` `Power BI` `Excel`  
 - Growing towards handling **large datasets (Spark)** and designing **data pipelines**  
