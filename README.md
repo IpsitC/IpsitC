@@ -7,15 +7,18 @@
 ---
 
 ##  About Me
-- I am a **Final Year Computer Engineering Student**  
+- I am a **Final Year Computer Engineering Student**
+- I enjoy building web applications and exploring how things work behind the scenes, especially around backend development and clean, structured code.
 - Skilled in **C, C++ and Full Stack Development**  
-- I aspire to become a **Data Engineer**, currently starting my journey as a **Data Analyst**  
-- Building my foundation with:  
-  `SQL` `Python` `Power BI` `Excel`  
-- Growing towards handling **large datasets (Spark)** and designing **data pipelines**  
 - I love **solving real-life problems** through technology  
 
 ---
+
+### What I’m Currently Exploring
+- Sharpening PHP & MySQL fundamentals
+- Learning better project structure and architecture
+- Experimenting with CMS internals and plugin development
+- Contributing small fixes/documentation updates to open-source
 
 ## Tech Stack
 
@@ -23,7 +26,7 @@
 `HTML` `CSS` `JavaScript` `Bootstrap`  
 
 **Backend**  
-`PHP` `REST APIs` `Node.js`  
+`PHP` `REST APIs`  
 
 **Database**  
 `MySQL` `MongoDB`  
