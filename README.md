@@ -39,6 +39,22 @@
 
 ---
 
+##  Featured Projects
+
+### TimeTable Management System
+A web-based timetable management platform built using **PHP, MySQL, HTML, CSS, and JavaScript**.  
+Focuses on backend logic, CRUD operations, and efficient data handling.
+
+### Hospital Management System (HMS)
+A full-stack project that manages patient records, appointments, and admin workflows.  
+Demonstrates **server-side development, form handling, and database structuring**.
+
+###  Portfolio Website
+A personal website showcasing your projects, skills, and experience.  
+Built with **HTML, CSS, JavaScript**, and includes responsive UI components.
+
+
+
 ## GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ipsitneel&show_icons=true&bg_color=30,ff0000,0000ff&title_color=fff&text_color=fff" alt="GitHub Stats" height="165" />
